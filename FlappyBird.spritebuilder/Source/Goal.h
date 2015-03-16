@@ -2,8 +2,8 @@
 //  Goal.h
 //  FlappyBird
 //
-//  Created by Benjamin Encz on 10/02/14.
-//  Copyright (c) 2014 MakeGamesWithUs inc. Free to use for all purposes.
+//  Created by Chris Kornaros on 03/16/15.
+//  Chris Kornaros Game Productions
 //
 
 #import "CCNode.h"
